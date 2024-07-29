@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Pascal's Triangle, a combined approach for generating Pascal's Triangle."""
+"""Pascal's Triangle"""
+
 
 def pascal_triangle(n):
     """
