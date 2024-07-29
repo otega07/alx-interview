@@ -1,10 +1,9 @@
 #!/usr/bin/python3
-"""Pascal's Triangle
-"""
+"""Pascal's Triangle, a combined approach for generating Pascal's Triangle."""
 
 def pascal_triangle(n):
     """
-    Returns a list of lists of integers representing Pascal's Triangle of n
+    Returns a list of lists of integers representing Pascal's Triangle of n.
     """
     if n <= 0:
         return []
