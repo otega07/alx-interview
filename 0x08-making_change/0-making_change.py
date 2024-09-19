@@ -26,5 +26,4 @@ def makeChange(coins, total):
         if total == 0:
             return change
 
-    # If the loop ends and total is not zero, it's not possible to make the exact amount
     return -1
